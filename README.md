@@ -1,4 +1,4 @@
-# Speed Typing Game Part 8
+# Speed Typing Game
 
 Developed for an online React course.
 
